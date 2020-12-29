@@ -1,0 +1,2 @@
+# jogo-da-velha-html-javascript
+Neste projeto tive a oportunidade de construir o famoso jogo da velha, utilizando somente HTML para estruturar o site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Foram abordados conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!
